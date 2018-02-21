@@ -1,8 +1,9 @@
-Code of Latent Block Models for Binary Data
-from the article "Block clustering with Bernoulli mixture models: Comparison of different approaches", G. Govaert and M. Nadif (2008)
-
+Code of the Latent Block Models for various type of data
+For details see "Co-clustering, Govaert G. and Nadif M. - 2014"
 
 Files: 
+
+- bcem_poisson.m : block clustering with mixtures of poisson
 
  
 
